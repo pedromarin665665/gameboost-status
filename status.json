@@ -1,7 +1,7 @@
 ﻿{
-    "issued":  "20261028231205",
-    "killAll":  false,
-    "message":  "",
+    "issued":  "20261028231939",
+    "killAll":  true,
+    "message":  "Mantenimiento",
     "revoked":  [
                     "LIC-BC1A8E17",
                     "LIC-061A355C",
@@ -10,5 +10,5 @@
     "revokedMachines":  [
 
                         ],
-    "sig":  "Tt8aXyO1UU7LIbf3FzAqiogx4p5TkiMKnad2ZNXMeRMCKGmhq+oSB1EwJ+2HhBJ3BsmmpPGS2VfbNXgUqGFw/Ssc6yi8tTJz0+nnAQQ+s7xoUzhWxehBLgsA5zIgXNRZCpA96w7BPB63MaDU44MV7CxNcb8V34jCnK8ady0HlBTb39N3j9DJ4z6IUv9Xc0G1PAt4RdzWjPhP3w1TfeNC0q8Z7sSUMHJr+w7BNHSuWQtcTuQO3Ad9kh6zZYZwC2T+KStnW/O0hpzHKxDYN40y3wJ7ON5h3lBTiUEQ/8fVDGRN8nHSMHj4cBYUNa17PT085ZIqQDuD8vqhq+6mQEgXeV6V8+u02Vyx4sNeVXp096E7TwIZkn5E4cnEPSVgcZ9Xw8n5QvUhRJJJwLSZbZSVcT0V9WfQNRiXIM/xS4Z0I6q24YoAECHjEVPTdI99W+sdaeBk+iXkqkVoBOT5HnewKOPAaFo6NqkkvnDC/Hffj+ag2ZWRKV1rGzp7qaepjVuZ"
+    "sig":  "nIpUcUNfOgTCFdbHsa8TMzjiS32BxrQTZFttecgF7gphx4Zz5znPnPZ8+yp23lO1jSYZysqsvjTgqEaXLvJRWXujOKFVbRT4YiymrHTzeVFAFaHlVBnjocEBDY8t2enPmEKCAXNl51VVe4AZhv18AO5sdbrXYwRV+LG4F/OfPXDFayP3RATT2JBnTmLrfDW1hiUXyVU6JGd9/U3P7Cd5u5sonDpZ3/yI0Gbe6uCCEY1D5jXRvzDymEqwoL7c2AR4tuT025FgisWWCX1npkmfsLXXI5Z68RHRvH6SzayMkQwarjaDsR+mthGTo1YkehkHVf5BR+Z5zsjVQaARN90A6x4y9YhYkKzr3P8Jjyygux/uRk5i5+nr0JAZ/ipg2coIZeQo5FXrj8/5BVTSbK4IhsK6lFvAzPIA5ED3dMEm4U/RXesIn+qYEhrDzr2VbtyuRF6mcTb5Yx9YCUW5UDGBEVbZyvioDlLDqY7AZ55N3KKirq5FGyTh84CnTjXQifii"
 }
