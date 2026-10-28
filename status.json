@@ -1,0 +1,13 @@
+﻿{
+    "issued":  "20261028230324",
+    "killAll":  false,
+    "message":  "",
+    "revoked":  [
+                    "LIC-BC1A8E17",
+                    "LIC-061A355C"
+                ],
+    "revokedMachines":  [
+
+                        ],
+    "sig":  "Zww3q7jwUNig51MkbQE45ouq85ceZKEaV3T6gqCX8CNhSEEUJ9LkwEB8FFPYKbtDipL6dwu+ZN6uUM1873ja+FlZW68F4sl+2bmyvU40l/ad4RWIiMO1TotszJq5nz3/m7a2XHhl1gODde9gloPmJ89oCRl27jh1PDrmTTATLF9QqLIuwI8GGEiP6oL52mCQmHmoId+xP732xYcHLmSOR6C0aIQxZzVpxenBkzKKpejLKU++qy7in/o7VfQMbcDp+fNjWDALqsyHqZRFYvr2h7xlv60VBatTy+mEAhibsrw1X2kZc+jyOFGFGOZjlb64VUe/YeP/brFPFMWW6iYNK8MI53biA5yn7EB8zBHIFJMZqeBRx5gQixMCqMga74ZIqbtt8pIDuWL2O7L+YcQrIozjGyY8E36qnRL7lnpxV04KyOeQAtlubnRnMYHN/DyPtJkqVYTrwNFiRbOgf0ORmzWGmZK8o+lun2pjOgUqfpFE1tbz/mcIVVp98u4Wmua/"
+}
