@@ -1,13 +1,14 @@
 ﻿{
-    "issued":  "20261028230324",
+    "issued":  "20261028231205",
     "killAll":  false,
     "message":  "",
     "revoked":  [
                     "LIC-BC1A8E17",
+                    "LIC-061A355C",
                     "LIC-061A355C"
                 ],
     "revokedMachines":  [
 
                         ],
-    "sig":  "Zww3q7jwUNig51MkbQE45ouq85ceZKEaV3T6gqCX8CNhSEEUJ9LkwEB8FFPYKbtDipL6dwu+ZN6uUM1873ja+FlZW68F4sl+2bmyvU40l/ad4RWIiMO1TotszJq5nz3/m7a2XHhl1gODde9gloPmJ89oCRl27jh1PDrmTTATLF9QqLIuwI8GGEiP6oL52mCQmHmoId+xP732xYcHLmSOR6C0aIQxZzVpxenBkzKKpejLKU++qy7in/o7VfQMbcDp+fNjWDALqsyHqZRFYvr2h7xlv60VBatTy+mEAhibsrw1X2kZc+jyOFGFGOZjlb64VUe/YeP/brFPFMWW6iYNK8MI53biA5yn7EB8zBHIFJMZqeBRx5gQixMCqMga74ZIqbtt8pIDuWL2O7L+YcQrIozjGyY8E36qnRL7lnpxV04KyOeQAtlubnRnMYHN/DyPtJkqVYTrwNFiRbOgf0ORmzWGmZK8o+lun2pjOgUqfpFE1tbz/mcIVVp98u4Wmua/"
+    "sig":  "Tt8aXyO1UU7LIbf3FzAqiogx4p5TkiMKnad2ZNXMeRMCKGmhq+oSB1EwJ+2HhBJ3BsmmpPGS2VfbNXgUqGFw/Ssc6yi8tTJz0+nnAQQ+s7xoUzhWxehBLgsA5zIgXNRZCpA96w7BPB63MaDU44MV7CxNcb8V34jCnK8ady0HlBTb39N3j9DJ4z6IUv9Xc0G1PAt4RdzWjPhP3w1TfeNC0q8Z7sSUMHJr+w7BNHSuWQtcTuQO3Ad9kh6zZYZwC2T+KStnW/O0hpzHKxDYN40y3wJ7ON5h3lBTiUEQ/8fVDGRN8nHSMHj4cBYUNa17PT085ZIqQDuD8vqhq+6mQEgXeV6V8+u02Vyx4sNeVXp096E7TwIZkn5E4cnEPSVgcZ9Xw8n5QvUhRJJJwLSZbZSVcT0V9WfQNRiXIM/xS4Z0I6q24YoAECHjEVPTdI99W+sdaeBk+iXkqkVoBOT5HnewKOPAaFo6NqkkvnDC/Hffj+ag2ZWRKV1rGzp7qaepjVuZ"
 }
